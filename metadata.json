@@ -1,0 +1,5 @@
+{
+  "name": "Wamuzi News Theme",
+  "description": "A modern, dynamic news website theme built with React and Tailwind CSS, powered by the Gemini API to generate dynamic news content.",
+  "requestFramePermissions": []
+}
